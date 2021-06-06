@@ -128,7 +128,7 @@
         <!-- Left box for logo -->
         <div class="left">
             <img src="img/gym.png" alt="">
-            <div>Harry Fitness</div>
+            <div>Himanshu Fitness</div>
         </div>
         <!-- Mid box for navbar -->
         <div class="mid">
@@ -147,7 +147,7 @@
         </div>
     </header>
     <div class="container">
-        <h1>Join the best gym of Delhi now</h1>
+        <h1>Join the best gym of Noida now</h1>
         <form action="noaction.php">
             <div class="form-group">
                 <input type="text" name="" placeholder="Enter your Name">
